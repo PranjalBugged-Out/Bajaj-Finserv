@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Doctor Listing Application
+
+A modern React application for listing and searching doctors. Built with Material-UI and React, this application provides a user-friendly interface to search and filter through doctor listings.
+
+## Features
+
+- Search functionality for finding doctors
+- Filter panel for refined search results
+- Responsive Material-UI design
+- Modern and intuitive user interface
+
+## Technologies Used
+
+- React 19.1.0
+- Material-UI (MUI) 7.0.2
+- React Router DOM 7.5.2
+- Axios for API calls
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
